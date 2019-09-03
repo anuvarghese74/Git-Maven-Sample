@@ -1,1 +1,2 @@
+Hello to my First Maven Jenkins Project
 This is a sample text file ot validate the git integration
